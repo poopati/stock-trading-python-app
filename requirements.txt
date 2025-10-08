@@ -3,3 +3,4 @@ openai
 dotenv
 pandas
 schedule
+snowflake-connector-python[pandas]
